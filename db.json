@@ -1,0 +1,40 @@
+{
+    "requests": [
+      {
+        "name": "Дмитрий",
+        "phone": "89528578955",
+        "email": "kanzyrka18032018@gmail.com",
+        "product": "course-html",
+        "status": "complete",
+        "date": "05.12.2023",
+        "id": 1
+      },
+      {
+        "name": "Арнольд Петрович",
+        "phone": "+9956445668",
+        "email": "schwarzenegger@gmail.com",
+        "product": "course-js",
+        "date": "05.12.2023",
+        "status": "new",
+        "id": 2
+      },
+      {
+        "name": "Михаил Крапивкин",
+        "phone": "5558886551556",
+        "email": "krapiva@gmail.com",
+        "product": "course-php",
+        "status": "inwork",
+        "date": "05.12.2023",
+        "id": 3
+      },
+      {
+        "name": "Дмитрий",
+        "phone": "89528578955",
+        "email": "kanzyrka18032018@gmail.com",
+        "product": "course-wordpress",
+        "date": "05.12.2023",
+        "status": "new",
+        "id": 4
+      }
+    ]
+  }
